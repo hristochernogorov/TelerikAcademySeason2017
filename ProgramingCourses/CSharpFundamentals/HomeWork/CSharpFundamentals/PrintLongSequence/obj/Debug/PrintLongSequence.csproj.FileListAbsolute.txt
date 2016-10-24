@@ -1,0 +1,7 @@
+D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentHomeWork\PrintLongSequence\bin\Debug\PrintLongSequence.exe.config
+D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\PrintLongSequence\bin\Debug\PrintLongSequence.exe.config
+D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\PrintLongSequence\bin\Debug\PrintLongSequence.exe
+D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\PrintLongSequence\bin\Debug\PrintLongSequence.pdb
+D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\PrintLongSequence\obj\Debug\PrintLongSequence.csprojResolveAssemblyReference.cache
+D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\PrintLongSequence\obj\Debug\PrintLongSequence.exe
+D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\PrintLongSequence\obj\Debug\PrintLongSequence.pdb
