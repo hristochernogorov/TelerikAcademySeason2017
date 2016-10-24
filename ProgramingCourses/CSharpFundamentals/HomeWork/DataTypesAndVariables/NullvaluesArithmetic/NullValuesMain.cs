@@ -11,7 +11,7 @@ namespace NullvaluesArithmetic
             double? doubleNumber;
             doubleNumber = null;
             Console.WriteLine(intNumber);
-            Console.WriteLine(doubleNumber+ "2");
+            Console.WriteLine(doubleNumber);
 
         }
     }
