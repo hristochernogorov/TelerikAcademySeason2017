@@ -1,0 +1,6 @@
+D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentHomeWork\PrintFullName\bin\Debug\PrintFullName.exe.config
+D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentHomeWork\PrintFullName\bin\Debug\PrintFullName.exe
+D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentHomeWork\PrintFullName\bin\Debug\PrintFullName.pdb
+D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentHomeWork\PrintFullName\obj\Debug\PrintFullName.csprojResolveAssemblyReference.cache
+D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentHomeWork\PrintFullName\obj\Debug\PrintFullName.exe
+D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentHomeWork\PrintFullName\obj\Debug\PrintFullName.pdb

@@ -1,0 +1,6 @@
+D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentHomeWork\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentHomeWork\HelloWorld\bin\Debug\HelloWorld.exe
+D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentHomeWork\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentHomeWork\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentHomeWork\HelloWorld\obj\Debug\HelloWorld.exe
+D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentHomeWork\HelloWorld\obj\Debug\HelloWorld.pdb
