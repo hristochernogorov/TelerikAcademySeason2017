@@ -1,1 +1,0 @@
-D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentHomeWork\PrintLongSequence\bin\Debug\PrintLongSequence.exe.config

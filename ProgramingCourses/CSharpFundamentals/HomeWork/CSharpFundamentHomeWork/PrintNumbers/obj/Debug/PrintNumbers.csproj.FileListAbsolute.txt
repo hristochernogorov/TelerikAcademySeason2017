@@ -1,6 +1,0 @@
-D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentHomeWork\PrintNumbers\bin\Debug\PrintNumbers.exe.config
-D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentHomeWork\PrintNumbers\bin\Debug\PrintNumbers.exe
-D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentHomeWork\PrintNumbers\bin\Debug\PrintNumbers.pdb
-D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentHomeWork\PrintNumbers\obj\Debug\PrintNumbers.exe
-D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentHomeWork\PrintNumbers\obj\Debug\PrintNumbers.pdb
-D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentHomeWork\PrintNumbers\obj\Debug\PrintNumbers.csprojResolveAssemblyReference.cache
