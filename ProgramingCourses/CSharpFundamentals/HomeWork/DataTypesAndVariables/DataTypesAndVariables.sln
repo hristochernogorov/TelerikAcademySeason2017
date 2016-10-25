@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullvaluesArithmetic", "Nul
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComparingFloats", "ComparingFloats\ComparingFloats.csproj", "{69BEB5AF-EDE8-4541-9A74-406F5A0EAF03}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintASCIITable", "PrintASCIITable\PrintASCIITable.csproj", "{36EFB703-0DB2-4F03-BA68-9662E646B03C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{69BEB5AF-EDE8-4541-9A74-406F5A0EAF03}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69BEB5AF-EDE8-4541-9A74-406F5A0EAF03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69BEB5AF-EDE8-4541-9A74-406F5A0EAF03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36EFB703-0DB2-4F03-BA68-9662E646B03C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36EFB703-0DB2-4F03-BA68-9662E646B03C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36EFB703-0DB2-4F03-BA68-9662E646B03C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36EFB703-0DB2-4F03-BA68-9662E646B03C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
