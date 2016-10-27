@@ -5,6 +5,12 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddOrEven", "OddOrEven\OddOrEven.csproj", "{34DDC1CE-912D-4D01-A1DD-1906E7AC651F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoonGravity", "MoonGravity\MoonGravity.csproj", "{83997EE4-5E69-414F-88A2-A3AC01AE841F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivideBySevenAndFive", "DivideBySevenAndFive\DivideBySevenAndFive.csproj", "{12040A16-9402-4219-9BB7-41325A287045}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rectangles", "Rectangles\Rectangles.csproj", "{9F15BBA0-B004-4A86-9D3D-6C49FE5C65F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{34DDC1CE-912D-4D01-A1DD-1906E7AC651F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34DDC1CE-912D-4D01-A1DD-1906E7AC651F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34DDC1CE-912D-4D01-A1DD-1906E7AC651F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83997EE4-5E69-414F-88A2-A3AC01AE841F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83997EE4-5E69-414F-88A2-A3AC01AE841F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83997EE4-5E69-414F-88A2-A3AC01AE841F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83997EE4-5E69-414F-88A2-A3AC01AE841F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12040A16-9402-4219-9BB7-41325A287045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12040A16-9402-4219-9BB7-41325A287045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12040A16-9402-4219-9BB7-41325A287045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12040A16-9402-4219-9BB7-41325A287045}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F15BBA0-B004-4A86-9D3D-6C49FE5C65F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F15BBA0-B004-4A86-9D3D-6C49FE5C65F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F15BBA0-B004-4A86-9D3D-6C49FE5C65F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F15BBA0-B004-4A86-9D3D-6C49FE5C65F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
