@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Circle", "Circle\Circle.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersComparer", "NumbersComparer\NumbersComparer.csproj", "{5E5A7025-17F2-46BC-9617-192D81515B19}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadraticEquation", "QuadraticEquation\QuadraticEquation.csproj", "{80632F50-0BF7-409A-9D04-A58D6A8F9B60}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{5E5A7025-17F2-46BC-9617-192D81515B19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E5A7025-17F2-46BC-9617-192D81515B19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E5A7025-17F2-46BC-9617-192D81515B19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80632F50-0BF7-409A-9D04-A58D6A8F9B60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80632F50-0BF7-409A-9D04-A58D6A8F9B60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80632F50-0BF7-409A-9D04-A58D6A8F9B60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80632F50-0BF7-409A-9D04-A58D6A8F9B60}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
