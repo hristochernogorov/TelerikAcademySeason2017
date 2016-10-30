@@ -6,13 +6,21 @@
     {
         public static void Main()
         {
-            var number = 0;
-            var lenght = 3;
-            var numbers = new List<int>();
-            for (int i = 0; i < lenght; i++)
+            var firstNumber = double.Parse(Console.ReadLine());
+            var secondNumber = double.Parse(Console.ReadLine());
+            var thirdNumber = double.Parse(Console.ReadLine());
+            var result = firstNumber * secondNumber * thirdNumber;
+            if (result < 0)
             {
-                number = int.Parse(Console.ReadLine());
-                numbers.Add(number);
+                Console.WriteLine("-");
+            }
+            else if (result > 0)
+            {
+                Console.WriteLine("+");
+            }
+            else
+            {
+                Console.WriteLine(0);
             }
 
         }
