@@ -1,14 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace SpiralMatrix
+﻿namespace SpiralMatrix
 {
-    class Program
+    using System;
+    public class SpiralMatrixMain
     {
-        static void Main(string[] args)
+        public static void Main()
         {
         }
     }

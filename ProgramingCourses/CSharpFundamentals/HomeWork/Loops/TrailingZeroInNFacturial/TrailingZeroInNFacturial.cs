@@ -1,14 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace TrailingZeroInNFacturial
+﻿namespace TrailingZeroInNFacturial
 {
-    class Program
+    using System;
+    public class TrailingZeroInNFacturial
     {
-        static void Main(string[] args)
+        public static void Main()
         {
         }
     }

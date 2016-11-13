@@ -1,15 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace PrintDeck
+﻿namespace PrintDeck
 {
-    class Program
+    using System;
+    using System.Collections.Generic;
+    public class PrintDeckMain
     {
-        static void Main(string[] args)
+        public static void Main()
         {
+            var card = Console.ReadLine();
+            var cardDeck = new List<string>();
         }
     }
 }

@@ -1,14 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace CalculateTreeFacturial
+﻿namespace CalculateTreeFacturial
 {
-    class Program
+    using System;
+    public class CalculateTreeFacturialMain
     {
-        static void Main(string[] args)
+        public static void Main()
         {
         }
     }

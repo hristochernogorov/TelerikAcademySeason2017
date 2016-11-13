@@ -1,15 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace NumberFromOneToN
+﻿namespace NumberFromOneToN
 {
-    class Program
+    using System;
+    public class NumberOneToNMain
     {
-        static void Main(string[] args)
+        public static void Main()
         {
+            var number = int.Parse(Console.ReadLine());
+            for (int i = 1; i <= number; i++)
+            {
+                Console.Write("{0} ",i);
+            }
+            Console.WriteLine();
         }
     }
 }

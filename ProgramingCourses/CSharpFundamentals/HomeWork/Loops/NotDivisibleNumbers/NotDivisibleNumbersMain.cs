@@ -1,15 +1,19 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace NotDivisibleNumbers
+﻿namespace NotDivisibleNumbers
 {
-    class Program
+    using System;
+    public class NotDivisibleNumbersMain
     {
-        static void Main(string[] args)
+        public static void Main()
         {
+            var number = int.Parse(Console.ReadLine());
+            for (int i = 1; i <= number; i++)
+            {
+                if (i % 3 != 0 && i % 7 != 0)
+                {
+                    Console.Write("{0} ",i);
+                }
+            }
+            Console.WriteLine();
         }
     }
 }
