@@ -5,6 +5,10 @@
     {
         public static void Main()
         {
+            var N = int.Parse(Console.ReadLine());
+            var x = int.Parse(Console.ReadLine());
+
+            
         }
     }
 }
