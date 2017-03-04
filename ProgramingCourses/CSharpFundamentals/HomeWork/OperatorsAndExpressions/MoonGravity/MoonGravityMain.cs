@@ -6,9 +6,11 @@ namespace MoonGravity
     {
         public static void Main()
         {
-            double weighOnEarth = double.Parse(Console.ReadLine());
-            double weighOnMoon = (weighOnEarth * 17) / 100;
-            Console.WriteLine("{0:F3}", weighOnMoon);
+            var weight = float.Parse(Console.ReadLine());
+            var moonGravity = 17.0f;
+            var weightOnMoon = 1.0f;
+            weightOnMoon = (weight / 100) * moonGravity;
+            Console.WriteLine("{0:F3}", weightOnMoon);
         }
     }
 }
