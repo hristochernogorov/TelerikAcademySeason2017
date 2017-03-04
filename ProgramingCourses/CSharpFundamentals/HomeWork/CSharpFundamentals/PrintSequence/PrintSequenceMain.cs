@@ -6,10 +6,20 @@ namespace PrintSequence
     {
         public static void Main()
         {
-            int i;
-            int j = 1;
-            for (i = 0; i < 10; i += 2, j += 2, Console.WriteLine("{0}\n{1}", i, -j));
-
+            var count = 10;
+            var number = 2;
+            for (int i = 0; i < count; i++)
+            {
+                if (number % 2 == 0 && count <= 10)
+                {
+                    Console.WriteLine("{0}", number);
+                }
+                else
+                {
+                    Console.WriteLine("-{0}", number);
+                }
+                number++;
+            }
         }
     }
 }

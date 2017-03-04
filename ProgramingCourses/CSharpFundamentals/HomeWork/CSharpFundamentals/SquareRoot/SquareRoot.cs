@@ -7,8 +7,8 @@
         public static void Main()
         {
             var number = 12345;
-            var squareOfNumber = Math.Sqrt(number);
-            Console.WriteLine(squareOfNumber);
+            var sqrtNumber = Math.Sqrt(number);
+            Console.WriteLine(sqrtNumber);
         }
     }
 }

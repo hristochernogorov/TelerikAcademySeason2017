@@ -4,3 +4,6 @@ D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWor
 D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentHomeWork\FormatCode\obj\Debug\FormatCode.csprojResolveAssemblyReference.cache
 D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentHomeWork\FormatCode\obj\Debug\FormatCode.exe
 D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentHomeWork\FormatCode\obj\Debug\FormatCode.pdb
+D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentals\FormatCode\bin\Debug\FormatCode.exe.config
+D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentals\FormatCode\obj\Debug\FormatCode.exe
+D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentals\FormatCode\obj\Debug\FormatCode.pdb

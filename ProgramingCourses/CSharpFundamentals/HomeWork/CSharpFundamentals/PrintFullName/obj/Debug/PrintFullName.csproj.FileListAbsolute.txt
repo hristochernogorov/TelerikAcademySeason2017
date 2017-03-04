@@ -7,3 +7,6 @@ D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWor
 D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\PrintFullName\bin\Debug\PrintFullName.exe.config
 D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\PrintFullName\obj\Debug\PrintFullName.exe
 D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\PrintFullName\obj\Debug\PrintFullName.pdb
+D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentals\PrintFullName\bin\Debug\PrintFullName.exe.config
+D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentals\PrintFullName\obj\Debug\PrintFullName.exe
+D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentals\PrintFullName\obj\Debug\PrintFullName.pdb

@@ -4,3 +4,9 @@ D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWor
 D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentHomeWork\YourAge\obj\Debug\YourAge.exe
 D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentHomeWork\YourAge\obj\Debug\YourAge.pdb
 D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentHomeWork\YourAge\obj\Debug\YourAge.csprojResolveAssemblyReference.cache
+D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentals\YourAge\bin\Debug\YourAge.exe.config
+D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentals\YourAge\obj\Debug\YourAge.exe
+D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentals\YourAge\obj\Debug\YourAge.pdb
+D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentals\YourAge\bin\Debug\YourAge.exe
+D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentals\YourAge\bin\Debug\YourAge.pdb
+D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentals\YourAge\obj\Debug\YourAge.csprojResolveAssemblyReference.cache

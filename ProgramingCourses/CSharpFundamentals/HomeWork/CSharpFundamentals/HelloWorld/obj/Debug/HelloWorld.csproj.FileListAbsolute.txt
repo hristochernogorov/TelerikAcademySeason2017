@@ -7,3 +7,6 @@ D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWor
 D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\HelloWorld\bin\Debug\HelloWorld.exe.config
 D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\HelloWorld\obj\Debug\HelloWorld.exe
 D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\HelloWorld\obj\Debug\HelloWorld.pdb
+D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentals\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentals\HelloWorld\obj\Debug\HelloWorld.exe
+D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentals\HelloWorld\obj\Debug\HelloWorld.pdb

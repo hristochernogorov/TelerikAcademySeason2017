@@ -4,3 +4,9 @@ D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWor
 D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentHomeWork\PrintNumbers\obj\Debug\PrintNumbers.exe
 D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentHomeWork\PrintNumbers\obj\Debug\PrintNumbers.pdb
 D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentHomeWork\PrintNumbers\obj\Debug\PrintNumbers.csprojResolveAssemblyReference.cache
+D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentals\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentals\PrintNumbers\obj\Debug\PrintNumbers.exe
+D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentals\PrintNumbers\obj\Debug\PrintNumbers.pdb
+D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentals\PrintNumbers\bin\Debug\PrintNumbers.exe
+D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentals\PrintNumbers\bin\Debug\PrintNumbers.pdb
+D:\TELERIK\TelerikAcademySeason2017\ProgramingCourses\CSharpFundamentals\HomeWork\CSharpFundamentals\PrintNumbers\obj\Debug\PrintNumbers.csprojResolveAssemblyReference.cache

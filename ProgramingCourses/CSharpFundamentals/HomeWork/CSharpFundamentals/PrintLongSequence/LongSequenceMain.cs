@@ -6,9 +6,22 @@
     {
         public static void Main()
         {
-            int i;
-            int j = 1;
-            for (i = 0; i < 1000; i += 2, j += 2, Console.WriteLine("{0}\n{1}", i, -j));
+            var number = 2;
+            var count = 1000;
+
+            for (int i = 0; i < count; i++)
+            {
+                if (number % 2 == 0)
+                {
+                    Console.WriteLine(number);
+                }
+                else
+                {
+                    Console.WriteLine("-{0}", number);
+                }
+                number++;
+
+            }
         }
     }
 }

@@ -1,22 +1,28 @@
 ﻿namespace YourAge
 {
     using System;
+    using System.Threading;
+    using System.Globalization;
+
     public class AgeMain
     {
         public static void Main()
         {
-            var dayOfBirth = DateTime.Parse(Console.ReadLine());
+            Thread.CurrentThread.CurrentCulture = new CultureInfo("en-US");
+            var input = Console.ReadLine();
+            var birthday = Convert.ToDateTime(input);
             var today = DateTime.Today;
-            var yourAgeNow = today.Year - dayOfBirth.Year;
-            if (today < dayOfBirth.AddYears(yourAgeNow)) yourAgeNow--;
+            int currentAge = today.Year - birthday.Year;
+            if (today < birthday.AddYears(currentAge))
             {
-                Console.WriteLine(yourAgeNow);
+                currentAge--;
             }
-            var afterTenYears = yourAgeNow + 10;
-            Console.WriteLine(afterTenYears);
-            
-          
-
+            var ageAfterTenYears = currentAge + 10;
+            if (birthday.Year < today.Year)
+            {
+                Console.WriteLine(currentAge);
+                Console.WriteLine(ageAfterTenYears);
+            }
 
         }
     }
