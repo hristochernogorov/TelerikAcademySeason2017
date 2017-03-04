@@ -6,9 +6,10 @@
     {
         public static void Main()
         {
-            string symbol = null;
-            int number = 42;
-            symbol = ((char)number).ToString();
+            int valueOfSymbol = 42;
+            var hexValueOfSymbol = valueOfSymbol.ToString("X");
+            Console.WriteLine(hexValueOfSymbol);
+            var symbol = '\x002A';
             Console.WriteLine(symbol);
         }
     }
