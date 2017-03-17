@@ -1,7 +1,7 @@
-﻿
-namespace NumbersComparer
+﻿namespace NumbersComparer
 {
     using System;
+
     public class NumbersComparerMain
     {
         public static void Main()

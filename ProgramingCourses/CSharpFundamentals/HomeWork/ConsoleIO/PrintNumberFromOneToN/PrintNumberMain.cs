@@ -2,12 +2,12 @@
 namespace PrintNumberFromOneToN
 {
     using System;
-    public class PrintNumberMain
-    {
+    public class PrintNumber
+    { 
         public static void Main()
         {
-            var number = int.Parse(Console.ReadLine());
-            for (int i = 1; i <= number; i++)
+            int count = int.Parse(Console.ReadLine());
+            for (int i = 1; i <= count; i++)
             {
                 Console.WriteLine(i);
             }

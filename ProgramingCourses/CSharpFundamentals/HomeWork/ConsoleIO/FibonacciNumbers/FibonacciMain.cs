@@ -8,25 +8,26 @@
         public static void Main()
         {
             var count = int.Parse(Console.ReadLine());
-            var previous = 0;
-            var next = 1;
-            StringBuilder builder = new StringBuilder();
+            long previous = 0;
+            long current = 1;
+            long next = 1;
+            StringBuilder fibonacci = new StringBuilder();
             for (int i = 0; i < count; i++)
             {
-                var current = previous;
+                current = previous;
                 previous = next;
                 next = current + next;
                 if (i == count - 1)
                 {
-                    builder.Append(current);
+                    fibonacci.Append(current);
                 }
                 else
                 {
-                    builder.Append(current).Append(", ");
+                    fibonacci.Append(current).Append(", ");
                 }
             }
 
-            Console.WriteLine(builder);
+            Console.WriteLine(fibonacci);
         }
     }
 }

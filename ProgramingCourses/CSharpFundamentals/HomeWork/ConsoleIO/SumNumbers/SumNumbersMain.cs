@@ -1,7 +1,7 @@
-﻿
-namespace SumNumbers
+﻿namespace SumNumbers
 {
     using System;
+
     public class SumNumbersMain
     {
         public static void Main()
@@ -12,6 +12,7 @@ namespace SumNumbers
             {
                 sum += double.Parse(Console.ReadLine());
             }
+
             Console.WriteLine(sum);
         }
     }

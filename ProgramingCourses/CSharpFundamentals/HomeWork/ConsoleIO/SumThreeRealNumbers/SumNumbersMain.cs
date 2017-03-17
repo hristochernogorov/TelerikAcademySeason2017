@@ -1,16 +1,17 @@
-﻿
-namespace SumThreeRealNumbers
+﻿namespace SumThreeRealNumbers
 {
     using System;
     public class SumNumbersMain
     {
         public static void Main()
         {
-            var firstNum = decimal.Parse(Console.ReadLine());
-            var secondNum = decimal.Parse(Console.ReadLine());
-            var thirdNum = decimal.Parse(Console.ReadLine());
-            var sum = firstNum + secondNum + thirdNum;
+            var a = double.Parse(Console.ReadLine());
+            var b = double.Parse(Console.ReadLine());
+            var c = double.Parse(Console.ReadLine());
+
+            var sum = a + b + c;
             Console.WriteLine(sum);
+
         }
     }
 }
