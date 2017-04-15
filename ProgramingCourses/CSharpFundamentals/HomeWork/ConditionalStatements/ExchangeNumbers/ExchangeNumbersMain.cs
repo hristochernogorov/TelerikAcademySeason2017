@@ -5,19 +5,19 @@
     {
         public static void Main()
         {
-            var numberA = double.Parse(Console.ReadLine());
-            var numberB = double.Parse(Console.ReadLine());
-            if (numberA < numberB)
+            var a = double.Parse(Console.ReadLine());
+            var b = double.Parse(Console.ReadLine());
+            if (a>b)
             {
-                Console.WriteLine("{0} {1}", numberA, numberB);
+                Console.WriteLine("{0} {1}",b,a);
             }
-            else if (numberB < numberA)
+            else if (a<b)
             {
-                Console.WriteLine("{0} {1}", numberB, numberA);
+                Console.WriteLine("{0} {1}",a,b);
             }
             else
             {
-                Console.WriteLine("{0} {1}", numberA, numberB);
+                Console.WriteLine("{0} {1}",a,b);
             }
         }
     }
