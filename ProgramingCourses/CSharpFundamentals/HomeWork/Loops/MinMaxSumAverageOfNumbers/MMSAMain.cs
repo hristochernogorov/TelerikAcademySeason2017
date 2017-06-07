@@ -2,25 +2,24 @@
 {
     using System;
     using System.Collections.Generic;
+    using System.Linq;
+
     public class MMSAMain
     {
         public static void Main()
         {
-            var n = int.Parse(Console.ReadLine());
-            var numbers = new List<double>(n);
+            var number = int.Parse(Console.ReadLine());
+            double[] myArr = new double[number];
             var sum = 0.0;
-            var average = 0.0;
-            for (int i = 0; i < n; i++)
+            for (int i = 0; i < number; i++)
             {
-                numbers.Add(double.Parse(Console.ReadLine()));
-                sum += numbers[i];
+                myArr[i]= double.Parse(Console.ReadLine());   
             }
-            numbers.Sort();
-            average = sum / n;
-            Console.WriteLine("min={0:F2}",numbers[0]);
-            Console.WriteLine("max={0:F2}",numbers[n-1]);
-            Console.WriteLine("sum={0:F2}",sum);
-            Console.WriteLine("avg={0:F2}",average);
+            sum = myArr.Sum();
+            var min = myArr.Min();
+            var max = myArr.Max();
+            var average = myArr.Average();
+            Console.WriteLine(" min={0:F2}\n max={1:F2}\n sum={2:F2}\n avg={3:F2}", min, max, sum, average);
         }
     }
 }
